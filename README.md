@@ -1,0 +1,1 @@
+This repository includes the implementation and testing of the Quicksort algorithm across various programming languages. Quicksort operates by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays based on whether they are less than or greater than the pivot. These sub-arrays are then sorted recursively.
